@@ -17,7 +17,7 @@ number_of_snap_to_send = int(config.get('custom_parameters', 'number_of_snap_to_
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s',
-                    handlers=[logging.FileHandler("script.log"),
+                    handlers=[logging.FileHandler("logs/script.log"),
                               logging.StreamHandler()])
 
 options = Options()
