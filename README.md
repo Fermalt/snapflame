@@ -1,2 +1,2 @@
 # snapflame
-This easy to use script is made to automatically send snaps to accounts and grow their flame amount
+This easy to use script automatically send snaps to accounts you specified in order to increase their snap score.
